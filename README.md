@@ -1,2 +1,0 @@
-# josemarr
-gerador de senhas
